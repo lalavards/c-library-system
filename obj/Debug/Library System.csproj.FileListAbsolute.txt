@@ -1,0 +1,20 @@
+C:\Users\pc\Desktop\PROG3L\Libray System\obj\Debug\Library System.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\PROG3L\Libray System\obj\Debug\Library System.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\PROG3L\Libray System\obj\Debug\Library_System.Form1.resources
+C:\Users\pc\Desktop\PROG3L\Libray System\obj\Debug\Libray_System.Forms.AddEditAuthor.resources
+C:\Users\pc\Desktop\PROG3L\Libray System\obj\Debug\Libray_System.Forms.AddEditBook.resources
+C:\Users\pc\Desktop\PROG3L\Libray System\obj\Debug\Libray_System.Forms.AddEditBookBorrowed.resources
+C:\Users\pc\Desktop\PROG3L\Libray System\obj\Debug\Libray_System.Forms.AddEditBookCategory.resources
+C:\Users\pc\Desktop\PROG3L\Libray System\obj\Debug\Libray_System.Forms.AddEditPosition.resources
+C:\Users\pc\Desktop\PROG3L\Libray System\obj\Debug\Libray_System.Forms.AddEditStudent.resources
+C:\Users\pc\Desktop\PROG3L\Libray System\obj\Debug\Library_System.Forms.AddEditUser.resources
+C:\Users\pc\Desktop\PROG3L\Libray System\obj\Debug\Library_System.Forms.ListForm.resources
+C:\Users\pc\Desktop\PROG3L\Libray System\obj\Debug\Library_System.Forms.Login.resources
+C:\Users\pc\Desktop\PROG3L\Libray System\obj\Debug\Libray_System.Properties.Resources.resources
+C:\Users\pc\Desktop\PROG3L\Libray System\obj\Debug\Library System.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\PROG3L\Libray System\obj\Debug\Library System.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\PROG3L\Libray System\bin\Debug\Libray System.exe.config
+C:\Users\pc\Desktop\PROG3L\Libray System\bin\Debug\Libray System.exe
+C:\Users\pc\Desktop\PROG3L\Libray System\bin\Debug\Libray System.pdb
+C:\Users\pc\Desktop\PROG3L\Libray System\obj\Debug\Libray System.exe
+C:\Users\pc\Desktop\PROG3L\Libray System\obj\Debug\Libray System.pdb
